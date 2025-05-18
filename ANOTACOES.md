@@ -575,14 +575,3 @@ Da perspectiva do usuário:
 🚫 nth-child, class, id (último recurso)
 💡 Dica final
 "Teste o fluxo real do usuário. Se o seu teste depende do DOM exato, ele tá errado."
-
-Despedida do Luiz Otávio
-Fique bem 👋.
-Evite drogas (ou use com parcimônia, tipo vi.mock).
-Faça exercícios (mais que testes snapshot).
-Durma bem (pelo menos até o deploy).
-E, por favor, não altere código em produção usando nano (eu nem sei usar o vi também, então faça local mesmo).
-
-Nos vemos nos próximos testes. Beijos 😘.
-
-Por Luiz Otávio Miranda
